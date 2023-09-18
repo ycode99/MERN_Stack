@@ -1,0 +1,18 @@
+.box1{
+    background-color: aqua;
+    transform: translate(100px, 20px);
+}
+.box2{
+    background-color: red;
+    transform: rotate(-45deg);
+}
+.box3{
+    background-color: orange;
+    margin: 200px;
+    transform: scale(1,4);
+}
+.box4{
+    background-color: magenta;
+    margin: 200px;
+    transform: skew(45deg);
+}

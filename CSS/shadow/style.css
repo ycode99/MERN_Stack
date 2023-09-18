@@ -1,0 +1,21 @@
+#yash{
+    text-shadow: 3px 3px 3px red;
+    
+}
+/*add two shadow*/
+#bel{
+    text-shadow: 3px 3px 3px red, 5px 5px 5px greenyellow;
+}
+.box1{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px 15px green, 15px 15px 15px red;
+    margin: 50px;
+}
+.box2{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    box-shadow: -10px -10px 15px green, 15px 15px 15px red;
+}

@@ -1,0 +1,20 @@
+.box1{
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    background-image: linear-gradient(red,blue);
+  
+}
+.box2{
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    background-image: linear-gradient(to right,red,blue);
+    /*to rigt
+      to bottom 
+      to bottom right
+      to bottom left
+      to top right
+      to top  left 
+      210deg   (for using degree)*/
+}
